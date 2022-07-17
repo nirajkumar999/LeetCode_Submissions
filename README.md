@@ -1,4 +1,5 @@
 # LeetCode_Submissions
+[263-https://leetcode.com/problems/ugly-number/](https://leetcode.com/problems/ugly-number/)  
 [264-https://leetcode.com/problems/ugly-number-ii/](https://leetcode.com/problems/ugly-number-ii/)  
 [268-https://leetcode.com/problems/missing-number/](https://leetcode.com/problems/missing-number/)  
 [283-https://leetcode.com/problems/move-zeroes/](https://leetcode.com/problems/move-zeroes/)  
