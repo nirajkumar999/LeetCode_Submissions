@@ -1,4 +1,5 @@
 # LeetCode_Submissions
+[367-https://leetcode.com/problems/valid-perfect-square](https://leetcode.com/problems/valid-perfect-square)  
 [383-https://leetcode.com/problems/ransom-note/](https://leetcode.com/problems/ransom-note/)  
 [410-https://leetcode.com/problems/split-array-largest-sum](https://leetcode.com/problems/split-array-largest-sum)  
 [438-https://leetcode.com/problems/find-all-anagrams-in-a-string/](https://leetcode.com/problems/find-all-anagrams-in-a-string/)  
