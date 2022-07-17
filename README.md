@@ -1,4 +1,5 @@
 # LeetCode_Submissions
+[1482-https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets)  
 [1528-https://leetcode.com/problems/shuffle-string/](https://leetcode.com/problems/shuffle-string/)  
 [1552-https://leetcode.com/problems/magnetic-force-between-two-balls](https://leetcode.com/problems/magnetic-force-between-two-balls)  
 [1658-https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)  
