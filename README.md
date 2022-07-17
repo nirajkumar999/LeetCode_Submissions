@@ -1,4 +1,5 @@
 # LeetCode_Submissions
+[242-https://leetcode.com/problems/valid-anagram/](https://leetcode.com/problems/valid-anagram/)  
 [258-https://leetcode.com/problems/add-digits/](https://leetcode.com/problems/add-digits/)  
 [260-https://leetcode.com/problems/single-number-iii](https://leetcode.com/problems/single-number-iii)  
 [263-https://leetcode.com/problems/ugly-number/](https://leetcode.com/problems/ugly-number/)  
