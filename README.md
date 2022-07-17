@@ -1,4 +1,5 @@
 # LeetCode_Submissions
+[1283-https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold)  
 [1299-https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)  
 [1332-https://leetcode.com/problems/remove-palindromic-subsequences/](https://leetcode.com/problems/remove-palindromic-subsequences/)  
 [1342-https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)  
