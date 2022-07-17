@@ -1,4 +1,5 @@
 # LeetCode_Submissions
+[2089-https://leetcode.com/problems/find-target-indices-after-sorting-array](https://leetcode.com/problems/find-target-indices-after-sorting-array)  
 [2091-https://leetcode.com/problems/removing-minimum-and-maximum-from-array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array)  
 [2139-https://leetcode.com/problems/minimum-moves-to-reach-target-score/](https://leetcode.com/problems/minimum-moves-to-reach-target-score/)  
 [2169-https://leetcode.com/problems/count-operations-to-obtain-zero/](https://leetcode.com/problems/count-operations-to-obtain-zero/)  
