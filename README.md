@@ -1,4 +1,5 @@
 # LeetCode_Submissions
+[492-https://leetcode.com/problems/construct-the-rectangle](https://leetcode.com/problems/construct-the-rectangle)  
 [496-https://leetcode.com/problems/next-greater-element-i/](https://leetcode.com/problems/next-greater-element-i/)  
 [503-https://leetcode.com/problems/next-greater-element-ii/](https://leetcode.com/problems/next-greater-element-ii/)  
 [509-https://leetcode.com/problems/fibonacci-number/](https://leetcode.com/problems/fibonacci-number/)  
