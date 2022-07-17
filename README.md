@@ -1,4 +1,5 @@
 # LeetCode_Submissions
+[1658-https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)  
 [1679-https://leetcode.com/problems/max-number-of-k-sum-pairs/](https://leetcode.com/problems/max-number-of-k-sum-pairs/)  
 [1695-https://leetcode.com/problems/maximum-erasure-value/](https://leetcode.com/problems/maximum-erasure-value/)  
 [1855-https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/)  
