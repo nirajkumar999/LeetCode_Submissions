@@ -1,4 +1,5 @@
 # LeetCode_Submissions
+[2078-https://leetcode.com/problems/two-furthest-houses-with-different-colors/](https://leetcode.com/problems/two-furthest-houses-with-different-colors/)  
 [2089-https://leetcode.com/problems/find-target-indices-after-sorting-array](https://leetcode.com/problems/find-target-indices-after-sorting-array)  
 [2091-https://leetcode.com/problems/removing-minimum-and-maximum-from-array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array)  
 [2139-https://leetcode.com/problems/minimum-moves-to-reach-target-score/](https://leetcode.com/problems/minimum-moves-to-reach-target-score/)  
