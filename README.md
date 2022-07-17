@@ -1,4 +1,5 @@
 # LeetCode_Submissions
+[338-https://leetcode.com/problems/counting-bits](https://leetcode.com/problems/counting-bits)  
 [342-https://leetcode.com/problems/power-of-four](https://leetcode.com/problems/power-of-four)  
 [344-https://leetcode.com/problems/reverse-string](https://leetcode.com/problems/reverse-string)  
 [349-https://leetcode.com/problems/intersection-of-two-arrays](https://leetcode.com/problems/intersection-of-two-arrays)  
