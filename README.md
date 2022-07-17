@@ -1,4 +1,5 @@
 # LeetCode_Submissions
+[1404-https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/)  
 [1423-https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)  
 [1461-https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)  
 [1480-https://leetcode.com/problems/running-sum-of-1d-array/](https://leetcode.com/problems/running-sum-of-1d-array/)  
