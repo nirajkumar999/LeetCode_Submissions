@@ -1,4 +1,5 @@
 # LeetCode_Submissions
+[15-https://leetcode.com/problems/3sum](https://leetcode.com/problems/3sum)  
 [20 - https://leetcode.com/problems/valid-parentheses/](https://leetcode.com/problems/valid-parentheses/)  
 [26-https://leetcode.com/problems/remove-duplicates-from-sorted-array/](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  
 [27-https://leetcode.com/problems/remove-element/](https://leetcode.com/problems/remove-element/)  
