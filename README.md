@@ -1,4 +1,5 @@
 # LeetCode_Submissions
+[46-https://leetcode.com/problems/permutations](https://leetcode.com/problems/permutations)  
 [48-https://leetcode.com/problems/rotate-image/](https://leetcode.com/problems/rotate-image/)  
 [49-https://leetcode.com/problems/group-anagrams/](https://leetcode.com/problems/group-anagrams/)  
 [50-https://leetcode.com/problems/powx-n](https://leetcode.com/problems/powx-n)  
