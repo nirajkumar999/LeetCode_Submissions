@@ -1,4 +1,5 @@
 # LeetCode_Submissions
+[50-https://leetcode.com/problems/powx-n](https://leetcode.com/problems/powx-n)  
 [54-https://leetcode.com/problems/spiral-matrix/submissions/](https://leetcode.com/problems/spiral-matrix/submissions/)  
 [59-https://leetcode.com/problems/spiral-matrix-ii/](https://leetcode.com/problems/spiral-matrix-ii/)  
 [62-https://leetcode.com/problems/unique-paths/](https://leetcode.com/problems/unique-paths/)  
