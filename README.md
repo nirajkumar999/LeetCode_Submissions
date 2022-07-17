@@ -1,4 +1,5 @@
 # LeetCode_Submissions
+[349-https://leetcode.com/problems/intersection-of-two-arrays](https://leetcode.com/problems/intersection-of-two-arrays)  
 [350-https://leetcode.com/problems/intersection-of-two-arrays-ii](https://leetcode.com/problems/intersection-of-two-arrays-ii)  
 [367-https://leetcode.com/problems/valid-perfect-square](https://leetcode.com/problems/valid-perfect-square)  
 [383-https://leetcode.com/problems/ransom-note/](https://leetcode.com/problems/ransom-note/)  
