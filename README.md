@@ -1,4 +1,5 @@
 # LeetCode_Submissions
+[1480-https://leetcode.com/problems/running-sum-of-1d-array/](https://leetcode.com/problems/running-sum-of-1d-array/)  
 [1482-https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets)  
 [1528-https://leetcode.com/problems/shuffle-string/](https://leetcode.com/problems/shuffle-string/)  
 [1552-https://leetcode.com/problems/magnetic-force-between-two-balls](https://leetcode.com/problems/magnetic-force-between-two-balls)  
