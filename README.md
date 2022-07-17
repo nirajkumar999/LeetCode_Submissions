@@ -1,4 +1,5 @@
 # LeetCode_Submissions
+[567-https://leetcode.com/problems/permutation-in-string/](https://leetcode.com/problems/permutation-in-string/)  
 [583-https://leetcode.com/problems/delete-operation-for-two-strings/](https://leetcode.com/problems/delete-operation-for-two-strings/)  
 [633-https://leetcode.com/problems/sum-of-square-numbers](https://leetcode.com/problems/sum-of-square-numbers)  
 [680-https://leetcode.com/problems/valid-palindrome-ii](https://leetcode.com/problems/valid-palindrome-ii)  
