@@ -1,4 +1,5 @@
 # LeetCode_Submissions
+[496-https://leetcode.com/problems/next-greater-element-i/](https://leetcode.com/problems/next-greater-element-i/)  
 [503-https://leetcode.com/problems/next-greater-element-ii/](https://leetcode.com/problems/next-greater-element-ii/)  
 [509-https://leetcode.com/problems/fibonacci-number/](https://leetcode.com/problems/fibonacci-number/)  
 [567-https://leetcode.com/problems/permutation-in-string/](https://leetcode.com/problems/permutation-in-string/)  
