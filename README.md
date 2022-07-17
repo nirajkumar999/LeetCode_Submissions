@@ -1,4 +1,5 @@
 # LeetCode_Submissions
+[268-https://leetcode.com/problems/missing-number/](https://leetcode.com/problems/missing-number/)  
 [283-https://leetcode.com/problems/move-zeroes/](https://leetcode.com/problems/move-zeroes/)  
 [287-https://leetcode.com/problems/find-the-duplicate-number/](https://leetcode.com/problems/find-the-duplicate-number/)  
 [303-https://leetcode.com/problems/range-sum-query-immutable/](https://leetcode.com/problems/range-sum-query-immutable/)  
