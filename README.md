@@ -1,4 +1,5 @@
 # LeetCode_Submissions
+[2139-https://leetcode.com/problems/minimum-moves-to-reach-target-score/](https://leetcode.com/problems/minimum-moves-to-reach-target-score/)  
 [2169-https://leetcode.com/problems/count-operations-to-obtain-zero/](https://leetcode.com/problems/count-operations-to-obtain-zero/)  
 [2180-https://leetcode.com/problems/count-integers-with-even-digit-sum/](https://leetcode.com/problems/count-integers-with-even-digit-sum/)  
 [2273-https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/)  
