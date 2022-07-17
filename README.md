@@ -1,4 +1,5 @@
 # LeetCode_Submissions
+[304-https://leetcode.com/problems/range-sum-query-2d-immutable/](https://leetcode.com/problems/range-sum-query-2d-immutable/)  
 [312-https://leetcode.com/problems/burst-balloons](https://leetcode.com/problems/burst-balloons)  
 [326-https://leetcode.com/problems/power-of-three](https://leetcode.com/problems/power-of-three)  
 [338-https://leetcode.com/problems/counting-bits](https://leetcode.com/problems/counting-bits)  
