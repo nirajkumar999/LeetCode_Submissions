@@ -1,4 +1,5 @@
 # LeetCode_Submissions
+[1870-https://leetcode.com/problems/minimum-speed-to-arrive-on-time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time)  
 [1886-https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)  
 [1910-https://leetcode.com/problems/remove-all-occurrences-of-a-substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring)  
 [1945-https://leetcode.com/problems/sum-of-digits-of-string-after-convert/](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/)  
