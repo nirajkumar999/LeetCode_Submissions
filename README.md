@@ -1,4 +1,5 @@
 # LeetCode_Submissions
+[1910-https://leetcode.com/problems/remove-all-occurrences-of-a-substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring)  
 [1945-https://leetcode.com/problems/sum-of-digits-of-string-after-convert/](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/)  
 [1991-https://leetcode.com/problems/find-the-middle-index-in-array](https://leetcode.com/problems/find-the-middle-index-in-array)  
 [2016-https://leetcode.com/problems/maximum-difference-between-increasing-elements/](https://leetcode.com/problems/maximum-difference-between-increasing-elements/)  
