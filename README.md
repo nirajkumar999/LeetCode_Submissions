@@ -1,4 +1,5 @@
 # LeetCode_Submissions
+[27-https://leetcode.com/problems/remove-element/](https://leetcode.com/problems/remove-element/)  
 [33-https://leetcode.com/problems/search-in-rotated-sorted-array](https://leetcode.com/problems/search-in-rotated-sorted-array)  
 [34-https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)  
 [46-https://leetcode.com/problems/permutations](https://leetcode.com/problems/permutations)  
