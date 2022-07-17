@@ -1,4 +1,5 @@
 # LeetCode_Submissions
+[442-https://leetcode.com/problems/find-all-duplicates-in-an-array](https://leetcode.com/problems/find-all-duplicates-in-an-array)  
 [443-https://leetcode.com/problems/string-compression/](https://leetcode.com/problems/string-compression/)  
 [448-https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)  
 [492-https://leetcode.com/problems/construct-the-rectangle](https://leetcode.com/problems/construct-the-rectangle)  
