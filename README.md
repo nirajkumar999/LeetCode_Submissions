@@ -1,4 +1,5 @@
 # LeetCode_Submissions
+[154-https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii)  
 [167-https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)  
 [189-https://leetcode.com/problems/rotate-array/](https://leetcode.com/problems/rotate-array/)  
 [191-https://leetcode.com/problems/number-of-1-bits](https://leetcode.com/problems/number-of-1-bits)  
