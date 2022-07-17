@@ -1,4 +1,5 @@
 # LeetCode_Submissions
+[2295-https://leetcode.com/problems/replace-elements-in-an-array/](https://leetcode.com/problems/replace-elements-in-an-array/)  
 [2296-https://leetcode.com/problems/design-a-text-editor/](https://leetcode.com/problems/design-a-text-editor/)  
 [2299-https://leetcode.com/problems/strong-password-checker-ii/](https://leetcode.com/problems/strong-password-checker-ii/)  
 [2300-https://leetcode.com/problems/successful-pairs-of-spells-and-potions/](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)  
