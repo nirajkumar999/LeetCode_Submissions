@@ -1,4 +1,5 @@
 # LeetCode_Submissions
+[2273-https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/)  
 [2180-https://leetcode.com/problems/count-integers-with-even-digit-sum/](https://leetcode.com/problems/count-integers-with-even-digit-sum/)  
 [2293-https://leetcode.com/problems/min-max-game/](https://leetcode.com/problems/min-max-game/)  
 [2294-https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/)  
