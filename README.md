@@ -1,4 +1,5 @@
 # LeetCode_Submissions
+[1332-https://leetcode.com/problems/remove-palindromic-subsequences/](https://leetcode.com/problems/remove-palindromic-subsequences/)  
 [1342-https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)  
 [1404-https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/)  
 [1423-https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)  
