@@ -1,4 +1,5 @@
 # LeetCode_Submissions
+[383-https://leetcode.com/problems/ransom-note/](https://leetcode.com/problems/ransom-note/)  
 [410-https://leetcode.com/problems/split-array-largest-sum](https://leetcode.com/problems/split-array-largest-sum)  
 [438-https://leetcode.com/problems/find-all-anagrams-in-a-string/](https://leetcode.com/problems/find-all-anagrams-in-a-string/)  
 [442-https://leetcode.com/problems/find-all-duplicates-in-an-array](https://leetcode.com/problems/find-all-duplicates-in-an-array)  
