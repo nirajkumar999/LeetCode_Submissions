@@ -1,4 +1,5 @@
 # LeetCode_Submissions
+[1423-https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)  
 [1461-https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)  
 [1480-https://leetcode.com/problems/running-sum-of-1d-array/](https://leetcode.com/problems/running-sum-of-1d-array/)  
 [1482-https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets)  
