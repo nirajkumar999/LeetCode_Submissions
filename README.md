@@ -1,4 +1,5 @@
 # LeetCode_Submissions
+[64-https://leetcode.com/problems/minimum-path-sum/](https://leetcode.com/problems/minimum-path-sum/)  
 [69-https://leetcode.com/problems/sqrtx](https://leetcode.com/problems/sqrtx)  
 [70-https://leetcode.com/problems/climbing-stairs](https://leetcode.com/problems/climbing-stairs)  
 [74-https://leetcode.com/problems/search-a-2d-matrix/](https://leetcode.com/problems/search-a-2d-matrix/)  
