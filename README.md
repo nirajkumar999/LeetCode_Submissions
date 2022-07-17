@@ -1,4 +1,5 @@
 # LeetCode_Submissions
+[833-https://leetcode.com/problems/find-and-replace-in-string/](https://leetcode.com/problems/find-and-replace-in-string/)  
 [844-https://leetcode.com/problems/backspace-string-compare/](https://leetcode.com/problems/backspace-string-compare/)  
 [852-https://leetcode.com/problems/peak-index-in-a-mountain-array](https://leetcode.com/problems/peak-index-in-a-mountain-array)  
 [867-https://leetcode.com/problems/transpose-matrix/](https://leetcode.com/problems/transpose-matrix/)  
