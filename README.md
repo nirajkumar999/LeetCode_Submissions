@@ -1,4 +1,5 @@
 # LeetCode_Submissions
+[724-https://leetcode.com/problems/find-pivot-index](https://leetcode.com/problems/find-pivot-index)  
 [746-https://leetcode.com/problems/min-cost-climbing-stairs/](https://leetcode.com/problems/min-cost-climbing-stairs/)  
 [833-https://leetcode.com/problems/find-and-replace-in-string/](https://leetcode.com/problems/find-and-replace-in-string/)  
 [844-https://leetcode.com/problems/backspace-string-compare/](https://leetcode.com/problems/backspace-string-compare/)  
