@@ -1,4 +1,13 @@
-# LeetCode_Submissions
+# LeetCode-Submissions
+All Of My LeetCode Question Submissions  
+  
+
+## Total Submission 133
+
+ 
+*******************************************************************************************************************************************************************
+
+
 [1-https://leetcode.com/problems/two-sum](https://leetcode.com/problems/two-sum)  
 [3-https://leetcode.com/problems/longest-substring-without-repeating-characters/](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  
 [7-https://leetcode.com/problems/reverse-integer](https://leetcode.com/problems/reverse-integer)  
